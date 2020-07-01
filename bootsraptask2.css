@@ -1,0 +1,34 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+.nav-link{
+    color: white;
+}
+.sidebar{
+    background-color: #2d3448;
+}
+.bodyy{
+    background-color: #efefef;
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    color: black;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin:  0 10px;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 2px solid #4caf50;
+}
+
+.textbox i{
+    width: 26px;
+    float: left;
+    text-align: center;
+}
